@@ -13,4 +13,4 @@ print ("Pole prostokąta " + str(pole_prostokata(3, 4)))
 
 print ("pole kwadratu " + str(pole_kwadratu(3)))
 
-print ("pole trapezu " + str(pole_ trapezu(2,3,4)))
+print ("pole trapezu " + str(pole_trapezu(2,3,4)))
